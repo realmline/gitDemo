@@ -1,3 +1,3 @@
 git is a version contorl system
 git is free software
-git to first commit
+git to first commiting
